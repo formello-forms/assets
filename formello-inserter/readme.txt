@@ -6,14 +6,16 @@ Stable tag:        1.0.1
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
-Example block written with ESNext standard and JSX support – build step required.
+Automatically insert any forms at the end or in the middle of your posts and set exclusions by categories or tags.
 
 == Description ==
 
-This is the long description. No limit, and you can use Markdown (as well as in the following sections).
+To collect a lot of leads you better insert your newsletter signup form on every posts. But doing so it can be time expensive. With this addon you can automatically insert your forms at the end or in the middle of your posts and set exclusions by categories or tags.
 
-For backwards compatibility, if this section is missing, the full length of the short description will be used, and
-Markdown parsed.
+So everytime you made an update to your form you will not waste time to update tons of posts.
+
+You can also set different form for different posts, based on categories or tags. So you can register your leads to exact list on Mailchimp (see also our Mailchimp addon).
+
 
 == Installation ==
 
@@ -35,18 +37,8 @@ An answer to that question.
 
 Answer to foo bar dilemma.
 
-== Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png`
-(or jpg, jpeg, gif).
-2. This is the second screen shot
-
-== FAQ ==
-* Stocazzo
-
-== Change Log ==
+== Changelog ==
 
 = 1.0.1 =
 * Added updater
@@ -54,8 +46,10 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 = 1.0.0 =
 * Release
 
+
 == Installation ==
 
 You may provide arbitrary sections, in the same format as the ones above. This may be of use for extremely complicated
 plugins where more information needs to be conveyed that doesn't fit into the categories of "description" or
 "installation." Arbitrary sections will be shown below the built-in sections outlined above.
+
