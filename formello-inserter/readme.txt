@@ -31,13 +31,13 @@ e.g.
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
+= Can I use this without Formello? =
 
-An answer to that question.
+No, you cannot use without installing Formello. This is an addon to specific use.
 
-= What about foo bar? =
+= What does this do? =
 
-Answer to foo bar dilemma.
+This plugin adds functionality to Formello forms to help you embed forms in any page automatically.
 
 
 == Changelog ==
