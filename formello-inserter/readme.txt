@@ -44,8 +44,9 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 2. This is the second screen shot
 
 == FAQ ==
+* Stocazzo
 
-== Change log ==
+== Change Log ==
 
 = 1.0.1 =
 * Added updater
