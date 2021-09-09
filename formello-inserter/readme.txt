@@ -25,9 +25,9 @@ This section describes how to install the plugin and get it working.
 
 e.g.
 
-1. Upload the plugin files to the `/wp-content/plugins/form-position` directory, or install the plugin through the WordPress plugins screen directly.
-1. Activate the plugin through the 'Plugins' screen in WordPress
-
+1. Upload the plugin files to the `/wp-content/plugins/` directory, or install the plugin through the WordPress plugins screen directly.
+2. Activate the plugin through the `Plugins` menu in WordPress
+3. Visit the `Formello` menu item in your admin sidebar
 
 == Frequently Asked Questions ==
 
