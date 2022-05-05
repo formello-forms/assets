@@ -39,6 +39,9 @@ Answer to foo bar dilemma.
 
 == Changelog ==
 
+= 1.0.7 =
+* Bug fix: wrong asset path
+
 = 1.0.5 =
 * Fix css
 
