@@ -3,7 +3,7 @@ Contributors:      Formello
 Tags:              block
 Requires at least: 5.4.0
 Tested up to:      5.9.0
-Stable tag:        1.0.8
+Stable tag:        1.0.9
 Requires PHP:      5.6
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
@@ -38,6 +38,9 @@ An answer to that question.
 Answer to foo bar dilemma.
 
 == Changelog ==
+
+= 1.0.9 =
+* Bug fix: rules applied to container
 
 = 1.0.8 =
 * Bug fix: updater not working
