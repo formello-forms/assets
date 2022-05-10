@@ -3,7 +3,7 @@ Contributors:      Formello
 Tags:              block
 Requires at least: 5.4.0
 Tested up to:      5.8.0
-Stable tag:        1.0.7
+Stable tag:        1.0.8
 Requires PHP:      5.6
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
@@ -45,6 +45,9 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 2. This is the second screen shot
 
 == Changelog ==
+
+= 1.0.8 =
+* Fixed modal
 
 = 1.0.7 =
 * Refactor to be more clean
