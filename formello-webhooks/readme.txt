@@ -1,9 +1,9 @@
-=== Formello Mailchimp Action ===
-Contributors:      The WordPress Contributors
+=== Formello Web Hooks ===
+Contributors:      Formello
 Tags:              block
 Requires at least: 5.6.0
 Tested up to:      5.8.0
-Stable tag:        1.0.2
+Stable tag:        1.0.3
 Requires PHP:      5.6.0
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
@@ -46,6 +46,9 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 2. This is the second screen shot
 
 == Changelog ==
+
+= 1.0.3 =
+* Fix modal
 
 = 1.0.2 =
 * Fix updater
