@@ -4,7 +4,7 @@ Donate link: 	   https://www.calcoloratamutuo.net
 Tags:              excel export
 Requires at least: 5.6.0
 Tested up to:      5.8.0
-Stable tag:        1.0.6
+Stable tag:        1.0.7
 Requires PHP:      7.0.0
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
@@ -16,6 +16,9 @@ A simple plugin to export to excel or csv all submission forms by Formello.
 With this plugin you can export all submissions forms from Formello to Excel. 
 
 == Changelog ==
+
+= 1.0.7 =
+* Fix class name
 
 = 1.0.6 =
 * Fix column selection
