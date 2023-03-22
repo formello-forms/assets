@@ -2,8 +2,8 @@
 Contributors:      Formello
 Tags:              block
 Requires at least: 5.4.0
-Tested up to:      6.0.1
-Stable tag:        1.1.6
+Tested up to:      6.2
+Stable tag:        1.1.7
 Requires PHP:      5.6
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
@@ -38,6 +38,10 @@ An answer to that question.
 Answer to foo bar dilemma.
 
 == Changelog ==
+
+= 1.1.7 =
+* Fix button rule
+* Added disabled to hidden field
 
 = 1.1.6 =
 * Fix plugin version number
