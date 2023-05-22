@@ -3,8 +3,6 @@
     position: relative;
 }
 .autoComplete_wrapper > input {
-    width: 370px;
-    height: 40px;
     padding-left: 10px;
     font-size: 1rem;
     color: #747474;
@@ -55,7 +53,7 @@
 }
 .autoComplete_wrapper > ul > li mark {
     background-color: transparent;
-    color: #ff7a7a;
+    color: #000000;
     font-weight: 700;
 }
 .autoComplete_wrapper > ul > li mark::selection {
@@ -64,10 +62,5 @@
 }
 .autoComplete_wrapper > ul > li[aria-selected="true"] {
     background-color: rgba(123, 123, 123, 0.1);
-}
-@media only screen and (max-width: 600px) {
-    .autoComplete_wrapper > input {
-        width: 18rem;
-    }
 }
 
